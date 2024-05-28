@@ -24,8 +24,8 @@ echo "Installation complete."
 ```
 
 Then, run the following command to verify that everything works:
-```
-workarena-human-eval --email YOUR_EMAIL --log human_eval.log --reset-log --curriculum random
+```bash
+workarena-human-eval --email YOUR_EMAIL --log test.log --curriculum random
 ```
 
 If you see something like this, it works. You can kill the program for now (CTRL-C).
@@ -52,3 +52,10 @@ Now, you will spend **15 minutes** experimenting with a real ServiceNow instance
 ## Step 5: Human evaluation
 
 Now that you've undergone our standardized training, you may start solving tasks from the benchmark.
+
+Run the following command to start the evaluation tool:
+```bash
+workarena-human-eval --email YOUR_EMAIL --log LASTNAME.log --reset-log --curriculum YOUR_CURRICULUM_FILE
+```
+
+`YOUR_CURRICULUM_FILE` should point to the curriculum file that was provided by the session lead. This contains the list of tasks assigned to you.
