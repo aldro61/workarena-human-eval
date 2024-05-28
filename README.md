@@ -61,4 +61,5 @@ workarena-human-eval --email YOUR_EMAIL --log LASTNAME.log --reset-log --curricu
 
 **Notes:**
 * `YOUR_CURRICULUM_FILE` should point to the curriculum file that was provided by the session lead. This contains the list of tasks assigned to you.
-* You may kill the program at any time and restart from where you left off
+* You may kill the program at any time and restart from where you left off.
+* If, for any reason, the page does not properly or appears to have crashed, please restart the program.
