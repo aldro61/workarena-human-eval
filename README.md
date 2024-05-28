@@ -51,15 +51,20 @@ Now, you will spend **15 minutes** experimenting with a real ServiceNow instance
 
 ## Step 5: Human evaluation
 
-Now that you've undergone our standardized training, you may start solving tasks from the benchmark. Note that we will log the time taken to solve the tasks as well as your success rate.
-Please make sure to remain focussed as much as possible to avoid over-inflating the time to completion measurements.
+Now that you've undergone our standardized training, you may start solving tasks from the benchmark.
+
+**Rules** 
+Please help us standardize the study by following these rules:
+* You may use a note-taking app to keep track of any information you need
+* You may use multiple tabs, but please use the provided button (+) to open them
+* We will log the time taken to solve the tasks so please make sure to remain focussed as much as possible. If you need a break, kill the program and restart it when ready.
 
 Run the following command to start the evaluation tool:
 ```bash
 workarena-human-eval --email YOUR_EMAIL --log LASTNAME.log --reset-log --curriculum YOUR_CURRICULUM_FILE
 ```
 
-**Notes:**
+**Important Notes:**
 * `YOUR_CURRICULUM_FILE` should point to the curriculum file that was provided by the session lead. This contains the list of tasks assigned to you.
-* You may kill the program at any time and restart from where you left off.
+* Checkpoints are made. You may kill the program at any time and restart from where you left off.
 * If, for any reason, the page does not properly or appears to have crashed, please restart the program.
