@@ -68,3 +68,8 @@ workarena-human-eval --email YOUR_EMAIL --log LASTNAME.log --reset-log --curricu
 * `YOUR_CURRICULUM_FILE` should point to the curriculum file that was provided by the session lead. This contains the list of tasks assigned to you.
 * Checkpoints are made. You may kill the program at any time and restart from where you left off.
 * If, for any reason, the page does not properly or appears to have crashed, please restart the program.
+
+
+## Step 6: Hand in your results
+
+If you get to this point, thank you so much! We are very grateful for your contribution and will make sure to acknowledge it in the paper. Please send the `LASTNAME.log` file to alexandre.drouin@servicenow.com. You are done!
