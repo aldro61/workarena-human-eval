@@ -32,4 +32,23 @@ If you see something like this, it works. You can kill the program for now (CTRL
 <img width="1719" alt="image" src="https://github.com/aldro61/workarena-human-eval/assets/2374980/b33e4e10-952c-430a-bfd5-8b9592a78e61">
 
 
-## Step 3: Initial training
+## Step 3: Training: Introductory presentation
+
+Listen to the following presentation, which is meant to bring everyone up to speed on our project, the ServiceNow platform, and our evaluation console.
+
+**TODO: put talk video**
+
+
+
+## Step 4: Training: Self-exploration in a real instance
+
+Now, you will spend **15 minutes** experimenting with a real ServiceNow instance. Feel free to navigate the menus, create entries in lists, fill out forms, delete records, etc.
+
+* Navigate to: [https://researchuicopilotdemo.service-now.com/](https://researchuicopilotdemo.service-now.com/)
+* Username: `admin`
+* Password: `Ask the session lead`
+
+
+## Step 5: Human evaluation
+
+Now that you've undergone our standardized training, you may start solving tasks from the benchmark.
