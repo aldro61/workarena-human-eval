@@ -4,7 +4,7 @@ Welcome to the WorkArena human evaluation study.
 
 ## Step 1: Fill out consent form and survey
 
-Thank you for agreeing to participate in our study. Before your continue, please fill out:
+Thank you for agreeing to participate in our study. Before continuing, please fill out:
 1. The [consent form](https://forms.gle/edJ1QbvwAGQZ7VKw8)
 2. The [demographics survey](https://forms.gle/2ENTNj9SARAc82FW6)
 
