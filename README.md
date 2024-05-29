@@ -37,6 +37,8 @@ If you see something like this, it works. You can kill the program for now (CTRL
 Listen to the following presentation, which is meant to bring everyone up to speed on our project, the ServiceNow platform, and our evaluation console.
 
 **TODO: put talk video**
+<img width="814" alt="image" src="https://github.com/aldro61/workarena-human-eval/assets/2374980/8bd574fa-6cfd-49f2-8468-db7c3e4a9b22">
+
 
 
 
